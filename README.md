@@ -1,4 +1,4 @@
-# CSCI-LING 5832 - NLP - [SemEval 2027](https://semeval.github.io/SemEval2027/tasks.html)
+# CSCI-LING 5832 - NLP - git commit [SemEval 2027](https://semeval.github.io/SemEval2027/tasks.html)
 ## [Task 8: StereoQueerEval: Identification of Stereotypes and Hate Speech Targeting the LGBTQIA+ Community](https://stereoqueereval.github.io/#about)
 
 ## Task Description
@@ -14,3 +14,11 @@ The task covers 4 languages across different cultural and geographical contexts:
 - Italian: A Romance mid‑resource language that extends earlier work and offers continuity within European research on LGBTQIA+ hate speech.
 - Dutch: A mid‑resource Germanic language underrepresented in queer-focused NLP, providing Northern/Western European perspectives.
 - Persian: A low‑resource Indo‑Iranian language that introduces culturally distinct patterns of discourse rarely covered in queer research. Note that the Persian data will be released for testing only.
+
+## How to participate
+If you would like to take part in the Identification of Stereotypes and Hate Speech Targeting the LGBTQIA+ Community (StereoQueerEval) at SemEval 2027 shared task and obtain the data:
+
+- [x] Please complete the Data Usage Agreement. You will be added to the Google Group within 24 hours and will receive the password for the data ZIP archive.
+- [ ] Download the data from GitHub, together with the guidelines.
+- [ ]Submit your runs on Codabench (available starting from October).
+- [ ] Write the technical report that should include a brief description of your approach, focusing on the adopted algorithms, models and resources, a summary of your experiments, and an analysis of the obtained results.
