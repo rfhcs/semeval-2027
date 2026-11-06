@@ -47,3 +47,29 @@ By accessing or using this dataset, you agree to the following terms.
 
 5. Ethical Use
    This dataset contains content related to LGBTQ+ communities and stereotypes. Please handle it with care and respect. You may not use the dataset, any outputs derived from it, or any models trained on it in ways that could target, harm, discriminate against, or demean LGBTQ+ individuals or communities.
+
+# Further Rules on data use, tools and resources
+
+2.1 May we send data to commercial LLM APIs?
+Yes. This case is not covered by term 2 of the agreement. That said, we encourage the use of open-source models over commercial ones.
+
+2.2 May we use a private rented cloud GPU for fine-tuning?
+Yes, provided that only people who have signed the agreement can access the machine and that the data is deleted from it when your participation ends.
+
+2.3 Are pretrained encoders and open-weight LLMs allowed?
+Yes, when run on your own hardware. Please name the models in your system description paper.
+
+2.4 Are there restrictions on using LLMs for prompting, fine-tuning or synthetic data generation?
+No, there are no restrictions. Please report the models, versions and prompts used, and confirm that no test instances were used.
+
+2.5 May we use external datasets or unlabeled data?
+Yes. All publicly available labeled and unlabeled data may be used for training, pre-fine-tuning or continued pre-training, as long as they do not overlap with the test data. Please cite all resources in your system paper.
+
+2.6 May we use the gold labels from other subtasks (e.g. stereotype and target labels) as auxiliary training targets?
+Yes. Training labels from all subtasks may be used as auxiliary targets. We place no restrictions on what you decide to use.
+
+2.7 May the 100 Persian development examples be used for training?
+Yes. They were released so participants could see what the data looks like, and using them for training is not restricted.
+
+2.8 May team members share the data with each other?
+Yes, between people who have each signed the agreement, and with no one else. A colleague who has not signed must sign before getting access.
